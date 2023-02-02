@@ -56,8 +56,7 @@ header nav a {
     line-height: normal;
     font-size: 17px;
     font-weight: lighter;
-    -webkit-transition: all 500ms ease;
-    -o-transition: all 500ms ease;
+   
     transition: all 500ms ease;
 
 }
